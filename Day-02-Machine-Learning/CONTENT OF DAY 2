@@ -1,0 +1,34 @@
+# AI/ML Internship – Day 2: Machine Learning Fundamentals
+
+## Objective
+
+Learn the essential data preprocessing techniques required before training machine learning models.
+
+## Setup
+
+```bash
+pip install -r requirements.txt
+```
+
+## Topics Covered
+
+* Loading datasets
+* Data cleaning and preprocessing
+* Exploratory Data Analysis (EDA)
+* Categorical data encoding
+* Feature engineering
+* Handling imbalanced datasets
+
+## Files
+
+* `01_Loading_Datasets.py`
+* `03_Data_Cleaning.py`
+* `06_EDA.py`
+* `08_Encoding.py`
+* `09_Feature_Engineering.py`
+* `10_Imbalanced_Data.py`
+* `requirements.txt`
+
+## Outcome
+
+Gained hands-on experience with the complete machine learning preprocessing pipeline, including data preparation, visualization, feature transformation, and techniques for handling class imbalance before model training.
