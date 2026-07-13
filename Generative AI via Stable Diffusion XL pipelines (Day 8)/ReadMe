@@ -1,0 +1,36 @@
+# AI/ML Internship – Day 8: Generative AI with Stable Diffusion XL
+
+## Overview
+Day 8 focused on Generative AI concepts using Stable Diffusion XL (SDXL). The session introduced text-to-image generation, diffusion models, prompt engineering, and image synthesis using pretrained models accelerated with NVIDIA H200 GPUs.
+
+## Topics Covered
+- Introduction to Generative AI
+- Stable Diffusion XL (SDXL)
+- Text-to-Image Generation
+- Diffusion Models
+- Prompt Engineering
+- Image Synthesis
+- Hugging Face Diffusers
+- GPU-Accelerated Inference
+
+## Practical Learning
+- Explored Stable Diffusion XL architecture.
+- Generated images from natural language prompts.
+- Learned prompt engineering techniques for improving image quality.
+- Understood inference workflows using pretrained diffusion models.
+- Performed GPU-accelerated image generation.
+
+## Skills Gained
+- Generative AI
+- Stable Diffusion XL
+- Prompt Engineering
+- Diffusion Models
+- Hugging Face Diffusers
+- GPU Inference
+
+## Tools & Libraries
+- Python
+- PyTorch
+- Hugging Face Diffusers
+- Transformers
+- Stable Diffusion XL
